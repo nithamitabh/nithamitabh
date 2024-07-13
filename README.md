@@ -76,6 +76,7 @@ Hi, I'm a passionate coder and a lifelong learner. I started coding in high scho
 
 ## My leetcode profile
 
-  ![image](https://github.com/nithamitabh/nithamitabh/assets/96220322/2af4542c-3577-4a26-9e9e-ae3e256f5eb3)
+  ![image](https://github.com/user-attachments/assets/187ae027-33c0-4d5e-aa21-f6c47686af16)
+
 
 
