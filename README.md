@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Java Script Developer and Student
 --------------------------------------------
 
-Hi, I'm a passionate coder and a lifelong learner. I started coding in high school, where I learned the basics of Java and SQL. Since then, I've been exploring various programming languages, such as JavaScript, Dart, and Python. I love contributing to open-source projects on GitHub, where I can collaborate with other developers and learn from their feedback. Some of the projects I've worked on include: 
+I'm a full-stack developer and electronics student at NIT Hamirpur, passionate about building scalable web apps and solving real-world problems through code. I love open-source, clean UI, and exploring tech ranging from React and Rust to 5G and ML.
+ I love contributing to open-source projects on GitHub, where I can collaborate with other developers and learn from their feedback. Some of the projects I've worked on include: 
 - A web app that uses Django and React to create interactive quizzes and surveys
 - A cloud-based service that uses Flask and Azure to perform sentiment analysis on text data
 - A Ecommerce Site in sanity io and Next js -A simple music platform in next js and MongoDB and much more...
@@ -76,7 +77,7 @@ Hi, I'm a passionate coder and a lifelong learner. I started coding in high scho
 
 ## My leetcode profile
 
-  ![image](https://github.com/user-attachments/assets/187ae027-33c0-4d5e-aa21-f6c47686af16)
+ [My LeetCode Profile](https://leetcode.com/amitabh_nith)
 
 
 
