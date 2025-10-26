@@ -22,6 +22,8 @@ I'm a full-stack developer and electronics student at NIT Hamirpur, passionate a
 *   🧠  I'm learning Next 14 new feature and rust
 *   🤝  I'm open to collaborating on interesting web projects and cool Open source Projects
 *   ⚡  i know, I am not perfect ... but i keep trying to be better
+  ### Badges
+  [![Holopin profile](https://holopin.me/nithamitabh)](https://holopin.io/@nithamitabh)
   ### Skills
    #### Core
    ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
