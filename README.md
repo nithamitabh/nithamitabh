@@ -72,6 +72,7 @@ I enjoy open-source, clean UI, and exploring areas like **Next.js, Rust, AI/LLMs
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-amitabh_kumar-orange?logo=leetcode&logoColor=white)](https://leetcode.com/amitabh_nith/)
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/amitabh_nith?theme=dark&font=Nunito&ext=heatmap)
+![LeetCode Contest Rating](https://leetcard.jacoblin.cool/amitabh_nith?theme=dark&font=Nunito&ext=contest)
 
 ---
 
